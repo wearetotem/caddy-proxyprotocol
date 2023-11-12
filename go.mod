@@ -1,4 +1,4 @@
-module github.com/mastercactapus/proxyprotocol
+module github.com/wearetotem/caddy-proxyprotocol
 
 go 1.16
 

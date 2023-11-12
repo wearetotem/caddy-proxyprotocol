@@ -10,7 +10,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/mastercactapus/proxyprotocol"
+	"github.com/wearetotem/caddy-proxyprotocol"
 )
 
 func parseHostPort(s string) (net.IP, int, error) {
